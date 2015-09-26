@@ -15,4 +15,10 @@ Author: Roberto Nunes <rns.net@gmail.com>
 
 Date:   Wed Sep 23 18:30:53 2015 -0300 
 
-  realizando commit local 
+  realizando commit local
+  
+nunesr@nunesr-270E5G-270E5U:~/primeiropush$ git remote add origin https://github.com/nunesr/primeiropush.git
+
+nunesr@nunesr-270E5G-270E5U:~/primeiropush$ git push origin master
+
+
